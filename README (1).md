@@ -65,7 +65,7 @@ A webcam window will popup and start recognition proccess<br>
 
 <br><br>
 
-Made By ❤ : [JoeVenner](mailto:ylafrimi@gmail.com)<br>
+Made By ❤ : pratyush sahoo <br>
 **Free Software, Hell Yeah!**
 
 
