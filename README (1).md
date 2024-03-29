@@ -1,5 +1,5 @@
 # Face Recogniton GUI-APP
-
+Python project
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.youtube.com/channel/UCKvgGs-ALhvOq9u95PHXHNw)
 
